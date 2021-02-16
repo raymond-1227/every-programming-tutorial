@@ -1,7 +1,12 @@
 # every programming tutorial series
 
 ## About
+
 So I basically copied the code from the "every programming tutorial" video, which is the world's largest pain because the video quality was like 480p and brackets are totally blurry.
+
+## LMAO
+
+The codes from the first and second episode would result errors already when editing the codes. 
 
 ## Original Code?
 
