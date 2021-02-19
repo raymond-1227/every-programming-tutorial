@@ -2,7 +2,7 @@
 
 ## About
 
-So I basically copied the code from the "every programming tutorial" video, which is the world's largest pain because the video quality was like 480p and brackets are totally blurry.
+So I basically copied the code from the "every programming tutorial" video (tutorial one fyi), which is the world's largest pain because the video quality was like 480p and brackets are totally blurry.
 
 ## LMAO
 
